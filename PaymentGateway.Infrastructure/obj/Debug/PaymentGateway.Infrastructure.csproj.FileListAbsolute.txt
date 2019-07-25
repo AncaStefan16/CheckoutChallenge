@@ -1,0 +1,13 @@
+C:\Users\Anca\source\repos\PaymentGateway\PaymentGateway.Infrastructure\bin\Debug\PaymentGateway.Infrastructure.dll
+C:\Users\Anca\source\repos\PaymentGateway\PaymentGateway.Infrastructure\bin\Debug\PaymentGateway.Infrastructure.pdb
+C:\Users\Anca\source\repos\PaymentGateway\PaymentGateway.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\Anca\source\repos\PaymentGateway\PaymentGateway.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anca\source\repos\PaymentGateway\PaymentGateway.Infrastructure\bin\Debug\PaymentGateway.Entities.dll
+C:\Users\Anca\source\repos\PaymentGateway\PaymentGateway.Infrastructure\bin\Debug\PaymentGateway.Entities.pdb
+C:\Users\Anca\source\repos\PaymentGateway\PaymentGateway.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\Anca\source\repos\PaymentGateway\PaymentGateway.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anca\source\repos\PaymentGateway\PaymentGateway.Infrastructure\obj\Debug\PaymentGateway.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Anca\source\repos\PaymentGateway\PaymentGateway.Infrastructure\obj\Debug\PaymentGateway.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Anca\source\repos\PaymentGateway\PaymentGateway.Infrastructure\obj\Debug\PaymentGateway.Infrastructure.csproj.CopyComplete
+C:\Users\Anca\source\repos\PaymentGateway\PaymentGateway.Infrastructure\obj\Debug\PaymentGateway.Infrastructure.dll
+C:\Users\Anca\source\repos\PaymentGateway\PaymentGateway.Infrastructure\obj\Debug\PaymentGateway.Infrastructure.pdb

@@ -1,0 +1,6 @@
+C:\Users\Anca\source\repos\PaymentGateway\PaymentGateway.Entities\bin\Debug\PaymentGateway.Entities.dll
+C:\Users\Anca\source\repos\PaymentGateway\PaymentGateway.Entities\bin\Debug\PaymentGateway.Entities.pdb
+C:\Users\Anca\source\repos\PaymentGateway\PaymentGateway.Entities\obj\Debug\PaymentGateway.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Anca\source\repos\PaymentGateway\PaymentGateway.Entities\obj\Debug\PaymentGateway.Entities.dll
+C:\Users\Anca\source\repos\PaymentGateway\PaymentGateway.Entities\obj\Debug\PaymentGateway.Entities.pdb
+C:\Users\Anca\source\repos\PaymentGateway\PaymentGateway.Entities\obj\Debug\PaymentGateway.Entities.csprojAssemblyReference.cache

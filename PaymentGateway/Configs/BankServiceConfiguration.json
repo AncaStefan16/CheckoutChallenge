@@ -1,0 +1,7 @@
+﻿{
+  "bankservice": {
+    "IsSimulationModeOn": true,
+    "DummyDataFile": "App_Data\\BankTestData.json",
+    "BankServiceUrl": ""
+  }
+}
